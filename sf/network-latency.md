@@ -3,6 +3,8 @@
 
 **Network latency** refers to the time it takes for data to travel from its source to its destination across a computer network. It is often measured in milliseconds (ms) and represents the delay or lag that occurs during data transmission. Latency can affect the performance and responsiveness of various online activities, such as web browsing, online gaming, video streaming, and real-time communication.
 
+![network delay](img/network-delay.png)
+
 Network latency can be caused by several factors, including:
 
 1. **Propagation Delay:** This is the time it takes for a signal to travel from the sender to the receiver. It is influenced by the physical distance between the two points and the speed of light in the transmission medium (e.g., fiber optic cable or copper wire).

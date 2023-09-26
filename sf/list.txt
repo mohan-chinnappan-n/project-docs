@@ -6,3 +6,4 @@ network-latency.md
 perf-testing.md
 qa.md
 synthetic-data-gen.md
+tls.md

@@ -1,6 +1,7 @@
 508.md
 a11y.md
 ecommerce.md
+ept.md
 network-latency.md
 perf-testing.md
 qa.md

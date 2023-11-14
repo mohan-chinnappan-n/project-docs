@@ -1,7 +1,9 @@
 508.md
 a11y.md
+app.js
 ecommerce.md
 ept.md
+joins.md
 network-latency.md
 perf-testing.md
 qa.md

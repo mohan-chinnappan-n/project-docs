@@ -78,7 +78,7 @@ After the initial navigation, one of the following is most likely to happen.
 - In addition to looking at P50 data (at least 50% of navigations would be slower than that value), we’re now tracking P75 data (at least 25% of navigations would be slower than that value) to better reflect worse experiences.
 
 ---
-- Once those changes were implemented on the Performance dashboards, we saw that the Lightning Experience page load duration for full navigation would be a P50 of about **4 seconds** and P75 of about **7 seconds**. This gets even worse for organizations with complex implementations reaching P75 of more than **10 seconds** in some cases. Ouch.
+- Once those changes were implemented on the Performance dashboards, we saw that the Lightning Experience page load duration for full navigation would be a P50 of about **4 seconds** and P75 of about **7 seconds**. This gets even worse for organizations with complex implementations reaching P75 of more than **10 seconds** in some cases. Ouch!.
 ---
 
 - Every solution starts with understanding and internalizing the problem. This data discovery exercise confirmed the **urgency of improving Lightning Experience page loading performance for our users**

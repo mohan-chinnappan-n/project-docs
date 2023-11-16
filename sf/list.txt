@@ -1,6 +1,5 @@
 508.md
 a11y.md
-app.js
 ecommerce.md
 ept.md
 joins.md
@@ -10,3 +9,4 @@ qa.md
 req-template.md
 synthetic-data-gen.md
 tls.md
+lex.md

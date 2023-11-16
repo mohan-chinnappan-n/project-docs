@@ -55,7 +55,7 @@ After the initial navigation, one of the following is most likely to happen.
 
 ![EPT](https://d259t2jj6zp7qm.cloudfront.net/images/20230315161154/image-42.png)
 
-- Measures the time it takes for a page to load entirely.he
+- Measures the time it takes for a page to load entirely.
 - Measures the time required for the highlighted
     - Render initial page
     - Get additional code, components
@@ -77,9 +77,9 @@ After the initial navigation, one of the following is most likely to happen.
 
 - In addition to looking at P50 data (at least 50% of navigations would be slower than that value), we’re now tracking P75 data (at least 25% of navigations would be slower than that value) to better reflect worse experiences.
 
-```
+---
 Once those changes were implemented on the Performance dashboards, we saw that the Lightning Experience page load duration for full navigation would be a P50 of about **4 seconds** and P75 of about **7 seconds**. This gets even worse for organizations with complex implementations reaching P75 of more than **10 seconds** in some cases. Ouch.
-```
+---
 
 - Every solution starts with understanding and internalizing the problem. This data discovery exercise confirmed the **urgency of improving Lightning Experience page loading performance for our users**
 

@@ -10,3 +10,4 @@ req-template.md
 synthetic-data-gen.md
 tls.md
 lex.md
+pen-testing.m

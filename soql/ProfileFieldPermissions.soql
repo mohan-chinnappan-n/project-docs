@@ -1,0 +1,8 @@
+
+    SELECT Id, Field, SObjectType, PermissionsRead, PermissionsEdit 
+FROM FieldPermissions 
+WHERE parentId IN 
+( SELECT Id
+      FROM PermissionSet 
+      WHERE PermissionSet.Profile.Name = 'System Administrator'
+) 

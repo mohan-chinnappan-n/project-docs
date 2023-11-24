@@ -1,0 +1,16 @@
+SELECT   QualifiedApiName,KeyPrefix,Label FROM EntityDefinition
+  WHERE  
+       (NOT QualifiedApiName   LIKE  '%_mdt')
+    AND (NOT QualifiedApiName   LIKE  '%__e')
+    AND (NOT QualifiedApiName   LIKE  '%__c')
+    AND (NOT QualifiedApiName   LIKE  '%__ChangeEvent')
+    AND (NOT QualifiedApiName   LIKE  '%__History')
+    AND (NOT QualifiedApiName   LIKE  '%__Feed')
+    AND (NOT QualifiedApiName   LIKE  '%__VoteStat')
+    AND (NOT QualifiedApiName   LIKE  '%__ViewStat')
+    AND (NOT QualifiedApiName   LIKE  '%__ka')
+    AND (NOT QualifiedApiName   LIKE  '%__kv')
+    AND (NOT QualifiedApiName   LIKE  '%__DataCategorySelection')
+    
+    
+  LIMIT 2000

@@ -1,0 +1,3 @@
+  SELECT  ApiVersion, Body,  Name, Status  
+  FROM ApexClass 
+  WHERE NamespacePrefix = null

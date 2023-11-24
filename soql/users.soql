@@ -1,0 +1,1 @@
+SELECT Id, Username, LastName, FirstName, Email, Alias, FederationIdentifier FROM User 

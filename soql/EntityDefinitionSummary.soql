@@ -1,0 +1,18 @@
+
+SElECT 
+         DetailUrl,
+         Id,
+         DeveloperName,       
+      
+
+         InternalSharingModel,
+         ExternalSharingModel,
+         
+          
+          
+         KeyPrefix,
+         Label,
+         MasterLabel,
+         NamespacePrefix
+       
+         FROM EntityDefinition

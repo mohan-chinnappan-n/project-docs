@@ -1,0 +1,4 @@
+SELECT Id, ContentDocumentId,ContentLocation,versionData, 
+  TextPreview,Title,Description,ContentUrl,FileType, 
+  FileExtension,PathOnClient 
+  FROM ContentVersion

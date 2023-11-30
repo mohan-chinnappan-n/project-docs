@@ -1,0 +1,1 @@
+SELECT ApexTestClassId, FlowVersionId, NumElementsCovered, NumElementsNotCovered FROM FlowTestCoverage

@@ -1,0 +1,3 @@
+
+  select ApiVersion, Body, BodyCrc, CreatedById, CreatedDate, Id, IsValid, LastModifiedById, LastModifiedDate, LengthWithoutComments, Name, NamespacePrefix, Status, SystemModstamp 
+  from ApexClass

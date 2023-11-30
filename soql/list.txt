@@ -1,5 +1,9 @@
+ApexClassList.soql
+EmailAlertsTooling.soql
 EntityDefinitionSummary.soql
+FlowTestCoverageTooling.soql
 ProfileFieldPermissions.soql
+RecordTypeTooling.soql
 all-account-fields.soql
 apex-class-list-simple.soql
 contentversion.soql

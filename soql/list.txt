@@ -10,3 +10,5 @@ contentversion.soql
 scheduledApex.soql
 std-objects.soql
 users.soql
+EventType.soql
+EventLogFile_LightningPageView.soql

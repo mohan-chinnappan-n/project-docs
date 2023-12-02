@@ -1,0 +1,3 @@
+SELECT
+    EventType FROM EventLogFile
+    GROUP BY EventType

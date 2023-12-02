@@ -1,0 +1,22 @@
+SELECT
+     ApiVersion,
+     CreatedById,
+     CreatedBy.Name,
+     CreatedDate,
+     EventType,
+     Id,
+     IsDeleted,
+     LastModifiedById,
+     LastModifiedDate,
+     LogDate,
+     LogFile,
+     LogFileContentType,
+     LogFileFieldNames,
+     LogFileFieldTypes,
+     LogFileLength,
+     SystemModstamp
+     FROM
+     EventLogFile
+     WHERE EventType = 'LightningPageView'
+     ORDER BY SystemModstamp DESC
+     

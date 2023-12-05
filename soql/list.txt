@@ -13,3 +13,5 @@ users.soql
 EventType.soql
 EventLogFile_LightningPageView.soql
 RealTimeEventSettingsTooling.soql
+LoginEvent.soql
+LightningUriEvent.soql

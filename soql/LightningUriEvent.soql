@@ -1,1 +1,41 @@
-SELECT id from LightningUriEvent
+SELECT  Id 
+		,DevicePlatform
+        ,EventDate
+        ,DeviceId
+        ,PreviousPageUrl
+        ,OsVersion
+        ,PreviousPageEntityId
+        ,SdkVersion
+        ,Operation
+        ,EffectivePageTimeDeviationErrorType
+        ,AppName
+        ,SdkAppType
+        ,SdkAppVersion
+        ,PageUrl
+     
+        ,HasEffectivePageTimeDeviation
+        ,SessionKey
+        ,UserAgent
+        ,EffectivePageTime
+        ,EffectivePageTimeDeviationReason
+        ,DeviceSessionId
+        ,RecordId
+        ,DeviceModel
+        ,EventIdentifier
+        ,ConnectionType
+        ,RelatedEventIdentifier
+        ,PageStartTime
+        ,OsName
+        ,Duration
+        ,SourceIp
+        ,Username
+        ,UserId
+        ,CreatedDate
+        ,PreviousPageAppName
+        ,PreviousPageEntityType
+        ,LoginKey
+        ,UserType
+        ,SessionLevel
+        ,QueriedEntities
+
+FROM LightningUriEvent

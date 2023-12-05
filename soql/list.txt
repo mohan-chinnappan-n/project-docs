@@ -1,8 +1,13 @@
 ApexClassList.soql
 EmailAlertsTooling.soql
 EntityDefinitionSummary.soql
+EventLogFile_LightningPageView.soql
+EventType.soql
 FlowTestCoverageTooling.soql
+LightningUriEvent.soql
+LoginEvent.soql
 ProfileFieldPermissions.soql
+RealTimeEventSettingsTooling.soql
 RecordTypeTooling.soql
 all-account-fields.soql
 apex-class-list-simple.soql
@@ -10,8 +15,3 @@ contentversion.soql
 scheduledApex.soql
 std-objects.soql
 users.soql
-EventType.soql
-EventLogFile_LightningPageView.soql
-RealTimeEventSettingsTooling.soql
-LoginEvent.soql
-LightningUriEvent.soql

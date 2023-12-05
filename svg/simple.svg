@@ -1,0 +1,17 @@
+<svg width="1000" height="800">
+    <circle cx="50" cy="50" r="40" stroke="black" 
+    stroke-width="2" fill="#99ccff" />
+    <rect x="120" width="100" height="100" rx="15" fill='#ff99cc' />
+
+    <polygon points="0,100 50,25 50,75 100,0" fill="#cc99ff"/>
+    <polyline points="100,100 150,25 150,75 200,0" fill="none" stroke="red" />
+
+    <!-- The <g> SVG element is a container used to group other SVG elements. -->
+    <!-- Using g to inherit presentation attributes -->
+
+    <g fill="white" stroke="green" stroke-width="3">
+        <circle cx="100" cy="400" r="25" />
+        <circle cx="120" cy="440" r="25" />
+        <circle cx="140" cy="480" r="25" />
+    </g>
+</svg>

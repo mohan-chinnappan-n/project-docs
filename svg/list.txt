@@ -1,2 +1,3 @@
 lightningUriEvent.svg
 loginEvent.svg
+simple.svg

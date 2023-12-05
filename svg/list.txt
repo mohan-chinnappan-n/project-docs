@@ -1,0 +1,2 @@
+lightningUriEvent.svg
+loginEvent.svg

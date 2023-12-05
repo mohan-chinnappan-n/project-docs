@@ -1,0 +1,6 @@
+SELECT
+Id
+,DurableId
+,Metadata
+,FullName
+FROM RealTimeEventSettings

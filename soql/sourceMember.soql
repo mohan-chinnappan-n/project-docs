@@ -1,0 +1,6 @@
+SELECT Id,
+MemberType,MemberName,         
+RevisionNum, RevisionCounter,  
+LastModifiedById, IsNewMember,
+ChangedBy                      
+FROM SourceMember     

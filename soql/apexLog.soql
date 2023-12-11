@@ -1,0 +1,12 @@
+  SELECT 
+     Application,
+     DurationMilliseconds,
+     Location,
+     LogLength,
+     LogUserId,
+     Operation,
+     Request,
+     RequestIdentifier,
+     StartTime,
+     Status
+     FROM ApexLog

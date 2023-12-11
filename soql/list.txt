@@ -1,5 +1,6 @@
 sourceMember.soql
 sourceMember2.soql
+apexLog.soql
 ApexClassList.soql
 EmailAlertsTooling.soql
 EntityDefinitionSummary.soql

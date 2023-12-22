@@ -2,3 +2,4 @@ apexLog.svg
 lightningUriEvent.svg
 loginEvent.svg
 simple.svg
+EntityDefinition.svg
